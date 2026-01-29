@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "dotenv": "^17.2.3",
-    "zone.js": "^0.16.0"
-  }
-}
